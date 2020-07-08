@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">BasicActivityCommunication</string>
+    <string name="basic_communication_btw_activities">Basic Activity Communication</string>
+    <string name="please_enter_name">Please, enter your name</string>
+    <string name="validate">Validate</string>
+    <string name="accept">Accept</string>
+    <string name="refuse">Refuse</string>
+    <string name="welcome">Welcome</string>
+    <string name="accept_conditions">! Please accept the conditions to continue.</string>
+    </resources>
